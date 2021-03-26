@@ -30,7 +30,6 @@
         android:background="#B7B2C3"
         android:gravity="center|end"
         android:padding="10dp"
-
         android:textColor="#000000"
         android:textColorHint="#7A7676"
         android:textSize="24sp" />
@@ -39,7 +38,6 @@
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="1"
-
         android:background="#FFFFFF"
         android:orientation="horizontal"
         android:weightSum="4">
@@ -80,7 +78,6 @@
             android:textColor="#000000"
             android:textSize="24sp" />
 
-
         <Button
             style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
@@ -92,8 +89,6 @@
             android:textAllCaps="false"
             android:textColor="#000000"
             android:textSize="24sp" />
-
-
     </LinearLayout>
 
     <LinearLayout
@@ -128,7 +123,6 @@
             android:textColor="#000000"
             android:textSize="24sp" />
 
-
         <ImageButton
             style="@style/Widget.AppCompat.Button.Borderless"
             android:layout_width="0dp"
@@ -149,8 +143,6 @@
             android:textAllCaps="false"
             android:textColor="#000000"
             android:textSize="27sp" />
-
-
     </LinearLayout>
 
     <LinearLayout
@@ -206,9 +198,6 @@
             android:text="x"
             android:textColor="#000000"
             android:textSize="25sp" />
-
-
-
     </LinearLayout>
 
     <LinearLayout
@@ -264,8 +253,6 @@
             android:text="-"
             android:textColor="#000000"
             android:textSize="35sp" />
-
-
     </LinearLayout>
 
     <LinearLayout
@@ -321,11 +308,7 @@
             android:text="+"
             android:textColor="#000000"
             android:textSize="30sp" />
-
-
     </LinearLayout>
-
-
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -344,8 +327,6 @@
             android:text="+/-"
             android:textColor="#000000"
             android:textSize="30sp" />
-
-
 
         <Button
             style="@style/Widget.AppCompat.Button.Borderless"
@@ -382,26 +363,4 @@
             android:textSize="30sp" />
 
     </LinearLayout>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </LinearLayout>
