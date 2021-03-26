@@ -167,7 +167,7 @@
             android:layout_weight="1"
             android:background="#FFFFFF"
             android:onClick="clickedSeven"
-            android:text="77"
+            android:text="7"
             android:textColor="#000000"
             android:textSize="30sp"
             android:textStyle="bold" />
